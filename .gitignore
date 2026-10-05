@@ -1,0 +1,7 @@
+/.xmake/
+/build/
+/dist/
+/vsxmake*/
+/compile_commands.json
+/.vs/
+*.user
